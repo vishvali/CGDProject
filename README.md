@@ -1,2 +1,0 @@
-# CGDProject
-Demo purpose project
